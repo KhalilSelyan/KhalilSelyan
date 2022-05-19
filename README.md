@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Selyan</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [CopyCat](https://github.com/AR-AI-copy-paste/deskop-application)
+- 🔭 I’m currently working on [CopyCat](https://github.com/AR-AI-copy-paste/deskop-application) and [Shoppingify]([https://github.com/](https://github.com/KhalilSelyan/shoppingify))
 
 - 🌱 I’m currently learning **NextJS,VueJS**
 
