@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CopyCat](https://github.com/AR-AI-copy-paste/deskop-application) and [Shoppingify]([https://github.com/](https://github.com/KhalilSelyan/shoppingify))
 
-- 🌱 I’m currently learning **NextJS,VueJS**
+- 🌱 I’m currently learning **NextJS,ThreeJS,React-Three**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhalilSelyan/](https://github.com/KhalilSelyan?tab=repositories)
 
